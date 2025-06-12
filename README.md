@@ -1,7 +1,7 @@
 # Sales-insights
 
 
-![image](Screenshot 2025-06-13 003556.png)
+![image](https://github.com/sanskars101/Sales-insights/blob/8e98f764fbc6385987bf8a21400c90b864499b67/Screenshot%202025-06-13%20003556.png))
 
 
 
